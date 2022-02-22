@@ -48,7 +48,62 @@ ________________________________________________________________________________
 
 	<div class="beneficios"> 
 		<div class="beneficios-producto"> 
-@@ -82,8 +106,13 @@
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">SORPRENDENTE</h2>
+			<div class="caja">
+				<div class="caracteristicas2">
+					<img
+					src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/puesta-en-marcha_jpg.jpg?v=1645376001" width="" class="foto"> 
+				</div>
+				<div class="caracteristicas">
+					<span> Que no te engañe su tamaño de bolsillo, la mini caña Fishing Paradise se
+					abre hasta una longitud de 2m.</span>
+				</div>
+
+			</div>
+			</div>
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">RESISTENTE</h2>
+			<div class="caja">
+				<div class="caracteristicas2">
+					<img src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/encendiendo.png?v=1645210765" width="" class="foto">
+				</div>
+				<div class="caracteristicas">
+					<span> Hecha de aleación de aluminio, la mini caña Fishing Paradise es muy
+					resistente. Su flexibilidad al doblarse la hacen ideal para piezas de gran
+					tamaño.</span>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="beneficios-producto">
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">PORTÁTIL</h2>
+				<div class="caja">
+					<div class="caracteristicas2">
+						<img
+						src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/facil.png?v=1645210745" width="" class="foto">
+					</div>
+					<div class="caracteristicas">
+						<span> Cabe literalmente en tu bolsillo, por lo que puedes llevarla contigo a cualquier
+						lugar e improvisar un día de pesca divertido.</span>
+ 					</div>
+ 				</div>
+ 			</div>
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">SENCILLA</h2>
+				<div class="caja">
+					<div class="caracteristicas2">
+						<img
+						src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/pellizco_1.png?v=1645210690" width="" class="foto">
+					</div>
+
+					<div class="caracteristicas">
+						<span> Apta para iniciados, su sencillez no requiere experiencia previa en la pesca,
+						tan sencillo como destapar su capucha protectora y expandir la caña.</span>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -63,11 +118,14 @@ ________________________________________________________________________________
 	<div class="tienda-questions2"> 
 		<div class="tienda-questions-product">
 			<h3>ENVÍOS</h3>
-@@ -95,14 +124,21 @@
+			<ul class="lista_especif">
+ 				<li> Entregas en península e islas en 24/72 horas. </li>
+				<li> Todos los pedidos incluyen número de seguimiento. </li>
+				<li> Enviamos de lunes a viernes. </li>
+              <li> Sujeto a disponibilidad de fabrica</li>
 			</ul>
 		</div>
-	</div>
-____________________________________________________________________________________________________________________________
+	</div>______________________________________________________________________________________________________
 
 ENVIOS
 ____________________________________________________________________________________________________________________________
@@ -76,32 +134,27 @@ ________________________________________________________________________________
 RESEÑAS
 ____________________________________________________________________________________________________________________________
 
-  <div class="reseñas-caja">
+ <div class="reseñas-caja">
 <div class="reseñas">
       <h2>¿que opinan nuestros clientes?</h2>
       <div class="reseña"> 
-     <div class="reseñas">
-      <h2>¿Que opinan nuestros clientes?</h2>
-      <div class="reseña"> <!-- 1 INICIO -->
 
 <!-- 1 -->			
-
 				<div class="imagen-reseña">
 
 					<img src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/trabajador_total_4.jpg?v=1645128031" width="" class="foto-reseña">
-@@ -113,26 +149,37 @@
+				<div class="cliente">
+				<span>Perfora el ano 10/10. Maravilloso.</span>
+                  	<h2 class="titulo-reseña">El Kevin</h2>
+				</div>
 				</div>
 
 
 	</div>
      <div class="reseña"> 
-	</div>       <!-- 1 FINAL -->
-      <div class="reseña">  <!-- 2 INICIO->  
 
 <!-- 2 -->
 				<div class="imagen-reseña">
-
-		<div class="imagen-reseña">
 
 					<img src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/trabajador_total_4.jpg?v=1645128031" width="" class="foto-reseña">
 				<div class="cliente">
@@ -109,16 +162,15 @@ ________________________________________________________________________________
                   	<h2 class="titulo-reseña">Satoshi</h2>
 				</div>
 				</div>
-		</div>
 
 
 	</div>
-	</div>    <!-- 2 FINAL -->
 
 
 	</div>	
 	</div>
-    </div>
+
+
 
 ____________________________________________________________________________________________________________________________
 
