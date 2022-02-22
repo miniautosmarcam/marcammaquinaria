@@ -1,0 +1,177 @@
+
+.caracteristicas {
+ display: table-cell;
+
+text-align: left;
+padding-left: 1.5em;
+width: 70%;
+}
+.caracteristicas2 {
+display: table-cell;
+vertical-align: middle;
+width:30%;
+  text-align: left;
+}
+.tienda-questions h2 {
+font-size: 3em; 
+}
+
+h2.titulo-caja {
+font-size: 24px;
+margin-bottom: 0;
+text-align: left;
+margin-top: 30px;
+}
+
+.caracteristicas span {
+padding-top: 23px;
+display: block;
+}
+
+@media (max-width: 770px) {
+.caracteristicas span {
+font-size:18px;
+margin-top: 6px;
+ }
+}
+
+@media (max-width: 600px) {
+.caracteristicas span {
+font-size:16px;
+ margin-top: 0px;
+}
+}
+
+@media only screen and (min-width: 770px) {
+p.cart__note_checkout.rte.text-center {
+text-align: left !important;
+}
+}
+
+
+.tienda-questions-product {
+max-width: 1000px;
+margin: auto;
+text-align: center;
+padding: 60px 30px;
+}
+
+.beneficios-producto .beneficio {
+width: 50%;
+display: table-cell;
+}
+.beneficios-producto {
+display: table;
+max-width: 1120px;
+  margin: auto;
+ 
+}
+.beneficios-producto .caracteristicas2 {
+display: table-cell;
+width: 30%;
+}
+.beneficios-producto .caracteristicas {
+vertical-align: top;
+width: 70%;
+}
+.beneficios-producto .caja {
+margin-right: 30px;
+}
+
+.tienda-questions {
+background: #f8f8f8;
+ padding: 20px 0;
+}
+.tienda-questions2 {
+  background: #f8f8f8;
+padding: 20px 0;
+}
+.beneficio {
+padding-left: 30px;
+}
+.beneficios {
+
+padding: 60px 0;
+}
+@media only screen and (max-width: 770px) {
+.beneficios-producto .beneficio {
+ width: 100% !important;
+ display: block !important ;
+}
+.beneficio .caja {
+ display: table;
+}
+}
+
+.lista_especif {
+list-style:none;
+}
+
+.foto {
+
+max-width: 40%;
+margin-top: 20px;
+  padding-right: 30px;
+}
+
+@media (max-width: 600px) {
+.foto {
+max-width:100%;
+margin-top: 35px;
+}
+
+.tienda-questions h2 {
+font-size: 2em;
+}
+}
+
+
+.foto-header{
+  float:left;
+max-width: 400px;
+  padding: 30px;
+        
+
+}
+
+.reseñas {
+text-align: center;
+padding-top: 30px;
+display: table;
+margin: auto;
+ width: 100%;
+  
+
+}
+.reseña {
+padding: 30px;
+display: inline-block;
+}
+
+.cliente span {
+
+padding-top: 30px;
+display: block;
+}
+.imagen-reseña{
+ display: table-cell;
+vertical-align: middle;
+width:30%;
+}
+.foto-reseña{
+  max-width: 300px;
+margin-right: 30%;
+}
+.reseñas .cliente {
+vertical-align: top;
+width: 100%;
+}
+.reseñas-caja{
+display: table;
+max-width: 1120px;
+margin: auto;
+}
+
+.tienda-questions-product h2 {
+font-size: 35px;
+}
