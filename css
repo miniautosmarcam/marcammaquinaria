@@ -1,31 +1,24 @@
 
+
 .caracteristicas {
  display: table-cell;
 
 text-align: left;
-padding-left: 1.5em;
+
 width: 70%;
 }
 .caracteristicas2 {
 display: table-cell;
-vertical-align: middle;
+vertical-align: left;
 width:30%;
   text-align: left;
 }
-.tienda-questions h2 {
-font-size: 3em; 
-}
 
-h2.titulo-caja {
-font-size: 24px;
-margin-bottom: 0;
-text-align: left;
-margin-top: 30px;
-}
 
 .caracteristicas span {
 padding-top: 23px;
 display: block;
+    white-space: initial;
 }
 
 @media (max-width: 770px) {
@@ -69,23 +62,18 @@ max-width: 1120px;
 .beneficios-producto .caracteristicas2 {
 display: table-cell;
 width: 30%;
+  
 }
 .beneficios-producto .caracteristicas {
 vertical-align: top;
 width: 70%;
+   margin: auto;
 }
 .beneficios-producto .caja {
 margin-right: 30px;
 }
 
-.tienda-questions {
-background: #f8f8f8;
- padding: 20px 0;
-}
-.tienda-questions2 {
-  background: #f8f8f8;
-padding: 20px 0;
-}
+
 .beneficio {
 padding-left: 30px;
 }
@@ -118,10 +106,6 @@ margin-top: 20px;
 .foto {
 max-width:100%;
 margin-top: 35px;
-}
-
-.tienda-questions h2 {
-font-size: 2em;
 }
 }
 
@@ -172,6 +156,29 @@ max-width: 1120px;
 margin: auto;
 }
 
-.tienda-questions-product h2 {
-font-size: 35px;
+
+
+.descripcion-caja{
+margin-left:20%;
+margin-right: 10%;
+}
+
+.descripcion-titulo{
+text-align: center;
+  font-size: 35px;
+}
+
+.descripcion{
+background: #f8f8f8;
+padding: 60px 0px;
+}
+.descripcion-span{
+padding-left:10%;
+  
+  max-width:950px;
+}
+@media only screen and (max-width:770px){
+  .descripcion-caja{
+  margin-left: 0% !important;
+  }
 }
