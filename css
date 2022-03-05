@@ -76,6 +76,7 @@ margin-right: 30px;
 
 .beneficio {
 padding-left: 30px;
+  padding-top: 20px;
 }
 .beneficios {
 
@@ -124,8 +125,6 @@ padding-top: 30px;
 display: table;
 margin: auto;
  width: 100%;
-  
-
 }
 .reseña {
 padding: 30px;
@@ -133,7 +132,6 @@ display: inline-block;
 }
 
 .cliente span {
-
 padding-top: 30px;
 display: block;
 }
@@ -171,6 +169,8 @@ text-align: center;
 .descripcion{
 background: #f8f8f8;
 padding: 60px 0px;
+  padding-bottom:150px;
+
 }
 .descripcion-span{
 padding-left:10%;
