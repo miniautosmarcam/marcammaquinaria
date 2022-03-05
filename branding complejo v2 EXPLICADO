@@ -15,26 +15,22 @@ ________________________________________________________________________________
 FOTO DESCRIPCION
 ____________________________________________________________________________________________________________________________
 
-	<div class="tienda-questions">
-			<div class="tienda-questions-product">
-				<h2>NO SE AFERRE A UN PROBLEMA, <br>EL MUNDO ESTÁ LLENO DE SOLUCIONES</h2>
-              <div class="caracteristicas2">
-
-		<img
-		src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/trabajador_total_4.jpg?v=1645128031" width="" class="foto-header"> 
-
-			<div class="caracteristicas">
-
-		<span>	<br><br>Completa tus tareas con éxito como nunca antes con el Taladro Percutor de batería TOTAL. Esta herramienta puede ayudarte tanto en las tareas domésticas de bricolaje como a nivel profesional.           
-                <br><br>Esto se debe a su gran versatilidad, ya que es perfecta tanto para hacer pequeñas perforaciones en la pared como a realizar huecos en piezas más sólidas y robustas.</span>
-
-			</div>
-   	 		</div>
-
-
-
-			</div>
-		</div>
+ <div class="descripcion">
+    <h2 class="descripcion-titulo">UN VALOR EXCEPCIONAL</h2>
+     <div class="descripcion-caja">
+    	<div class="descripcion-imagen">
+    	  <img
+		  src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/COMPRESOR-AIRE-TOTAL-12V-CON-ENCHUFE-MECHERO-COCHE_3128.jpg?v=1645564168" width="" class="foto-header"> 
+		
+        </div>
+    	<div class="descripcion-span">
+            <span>	<br><br>Un compresor de aire es una máquina pensada y diseñada especialmente para coger el aire del ambiente o gas, dependiendo del uso que le queramos dar, para almacenarlo y comprimirlo dentro de un tanque.
+					<br><br>Este compresor de Total posee una controladora digital para una mayor comodidad durante su uso, además de un enchufe para poder conectar en el mechero del coche sin necesidad de incómodos cables.Esto hace que sea una herramienta ideal para llevar en el maletero y tener siempre disponible.
+			</span>
+        </div>
+     </div>
+    
+   </div>
 
 ____________________________________________________________________________________________________________________________
 
