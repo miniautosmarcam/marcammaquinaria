@@ -1,0 +1,118 @@
+{% if product.title == "Compresor Aire TOTAL 12V - con Enchufe Mechero Coche" %} 
+	 <div class="descripcion">
+    <h2 class="descripcion-titulo">UN VALOR EXCEPCIONAL</h2>
+     <div class="descripcion-caja">
+    	<div class="descripcion-imagen">
+    	  <img
+		  src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/COMPRESOR-AIRE-TOTAL-12V-CON-ENCHUFE-MECHERO-COCHE_3128.jpg?v=1645564168" width="" class="foto-header"> 
+		
+        </div>
+    	<div class="descripcion-span">
+            <span>	<br><br>Un compresor de aire es una máquina pensada y diseñada especialmente para coger el aire del ambiente o gas, dependiendo del uso que le queramos dar, para almacenarlo y comprimirlo dentro de un tanque.
+					<br><br>Este compresor de Total posee una controladora digital para una mayor comodidad durante su uso, además de un enchufe para poder conectar en el mechero del coche sin necesidad de incómodos cables.Esto hace que sea una herramienta ideal para llevar en el maletero y tener siempre disponible.
+			</span>
+        </div>
+     </div>
+    
+   </div>
+
+	<div class="beneficios"> 
+		<div class="beneficios-producto"> 
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">PORTÁTIL</h2>
+			<div class="caja">
+				<div class="caracteristicas2">
+					<img
+					src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/pellizco_1.png?v=1645210690" width="" class="foto"> 
+				</div>
+				<div class="caracteristicas">
+					<span> Su reducido tamaño y su diseño ergonómico lo convierten en una herramienta ideal para llevar en 
+                      el maletero y tener siempre disponible</span>
+				</div>
+
+			</div>
+			</div>
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">MULTIUSOS</h2>
+			<div class="caja">
+				<div class="caracteristicas2">
+					<img src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/adaptacion.png?v=1645210765" width="" class="foto">
+				</div>
+				<div class="caracteristicas">
+					<span> Podrás utilizar hasta 3 boquillas diferentes que vienen incluidas,
+                      dependiendo de la función que necesites realizar con el compresor: soplado, inflado...</span>
+                   
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="beneficios-producto">
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">FÁCIL</h2>
+				<div class="caja">
+					<div class="caracteristicas2">
+						<img
+						src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/facil.png?v=1645210745" width="" class="foto">
+					</div>
+					<div class="caracteristicas">
+						<span> Cuenta con una controladora digital y pantalla LCD con función de apagado automático y visualización de presión que 
+                          hace que la operación sea más segura y sencilla.</span>
+ 					</div>
+ 				</div>
+ 			</div>
+			<div class="beneficio"> 
+				<h2 class="titulo-caja">POTENTE</h2>
+				<div class="caja">
+					<div class="caracteristicas2">
+						<img
+						src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/velocimetro.png?v=1645211609" width="" class="foto">
+					</div>
+
+					<div class="caracteristicas">
+						<span>El compresor de aire TOTAL permite inflar desde 0.05 bar hasta 7 bar. </span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="tienda-questions2"> 
+		<div class="tienda-questions-product">
+			<h3>ENVÍOS</h3>
+			<ul class="lista_especif">
+ 				<li> Entregas en península e islas en 24/72 horas. </li>
+				<li> Todos los pedidos incluyen número de seguimiento. </li>
+                <li> Sujeto a disponibilidad de fábrica</li>
+                <li> Enviamos de lunes a viernes. </li>
+			</ul>
+		</div>
+	</div>
+
+
+  <div class="reseñas-caja">
+<div class="reseñas">
+      <h2>¿que opinan nuestros clientes?</h2>
+      <div class="reseña"> 
+
+<!-- 1 -->			
+				<div class="imagen-reseña">
+
+					<img src="https://cdn.shopify.com/s/files/1/0627/3371/3630/files/resena.jpg?v=1645710812" width="" class="foto-reseña">
+				<div class="cliente">
+				<span>Envío muy rápido. Todo perfecto </span>
+                  	<h2 class="titulo-reseña">Juan.P</h2>
+				</div>
+				</div>
+
+
+	</div>
+    
+
+	</div>	
+	</div>
+
+ 
+
+{% endif %}
